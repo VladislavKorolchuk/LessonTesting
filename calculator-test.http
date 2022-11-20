@@ -1,0 +1,14 @@
+### Вывод изображения - Добро пожаловать в калькудятор.
+GET http://localhost:8080/calculator
+
+### Функция сложения
+GET http://localhost:8080/calculator/plus?num1=5&num2=5
+
+### Функция вычитания
+GET http://localhost:8080/calculator/minus?num1=5&num2=5
+
+### Функция умножения
+GET http://localhost:8080/calculator/multiply?num1=5&num2=5
+
+### Функция деления
+GET http://localhost:8080/calculator/divide?num1=5&num2=0
